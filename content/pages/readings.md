@@ -5,7 +5,7 @@ draft: false
 title: Readings
 uid: f331282f-80ec-48ba-9dc0-a8cb941846ba
 ---
-\[F\] = Fudenberg, Drew, and Jean Tirole. [*Game Theory*](https://mitpress.mit.edu/books/game-theory). MIT Press, 1991. ISBN: ‎9780262061414. 
+\[F\] = Fudenberg, Drew, and Jean Tirole. {{% resource_link "11b6475d-14d2-4baf-80af-7c59ba6c736a" "*Game Theory*" %}}. MIT Press, 1991. ISBN: ‎9780262061414. 
 
 \[G\] = Gibbons, Robert S. *Game Theory for Applied Economists*. Princeton University Press, 1992. ISBN: ‎9780691003955. 
 
@@ -13,7 +13,7 @@ uid: f331282f-80ec-48ba-9dc0-a8cb941846ba
 
 \[MC\] = McCarty, Nolan, and Adam Meirowitz. *Political Game Theory: An Introduction*. Cambridge University Press, 2007. ISBN: ‎9780521841078. 
 
-\[P\] = Persson, Torsten, and Guido Tabellini. [*Political Economics: Explaining Economic Policy*](https://mitpress.mit.edu/9780262661317/political-economics/)*.* MIT Press, 2002. ISBN: ‎9780262661317. 
+\[P\] = Persson, Torsten, and Guido Tabellini. {{% resource_link "71a5aade-89f1-4004-9881-3e6969c335dd" "*Political Economics: Explaining Economic Policy*" %}}*.* MIT Press, 2002. ISBN: ‎9780262661317. 
 
 **Lecture 1: Rationality and Rational Choice**
 
@@ -31,11 +31,11 @@ Cameron, Charles M. "Rational Choice and the Presidency." Chapter 3 in *Veto Bar
 
 *Required Reading:*
 
-\[G\] Chapter 1.1: Basic Theory: Normal-Form Games and Nash Equilibrium. \[Preview with [Google Books](https://www.google.com/books/edition/Game_Theory_for_Applied_Economists/8ygxf2WunAIC?hl=en&gbpv=1)\]
+\[G\] Chapter 1.1: Basic Theory: Normal-Form Games and Nash Equilibrium. \[Preview with {{% resource_link "54360e67-69e4-497e-9820-a46839d35481" "Google Books" %}}\]
 
 *Optional Readings:*
 
-\[G\] Chapter 1.2: Applications. \[Preview with [Google Books](https://www.google.com/books/edition/Game_Theory_for_Applied_Economists/8ygxf2WunAIC?hl=en&gbpv=1)\]
+\[G\] Chapter 1.2: Applications. \[Preview with {{% resource_link "54360e67-69e4-497e-9820-a46839d35481" "Google Books" %}}\]
 
 \[MC\] Chapter 5.1: The Normal Form. 
 
@@ -53,7 +53,7 @@ Cameron, Charles M. "Rational Choice and the Presidency." Chapter 3 in *Veto Bar
 
 \[MC\] Chapter 3.1: The Finite Case. 
 
-\[F\] Chapter 1: Games in Strategic Form and Nash Equilibrium. \[Preview with [Google Books](https://www.google.com/books/edition/Game_Theory/3KnuDwAAQBAJ?hl=en&gbpv=1)\] *(advanced)*
+\[F\] Chapter 1: Games in Strategic Form and Nash Equilibrium. \[Preview with {{% resource_link "35d971af-b930-4ecc-9359-00cd36c85df0" "Google Books" %}}\] *(advanced)*
 
 **Lecture 4A: Extensive Form Games with Complete Information: Dynamic Games of Complete and Perfect Information**
 
@@ -75,7 +75,7 @@ Cameron, Charles M. "Rational Choice and the Presidency." Chapter 3 in *Veto Bar
 
 *Optional Reading:*
 
-Grossman, Gene M, and Elhanan Helpman. "[Protection for Sale](https://www.jstor.org/stable/2118033?seq=1)." *American Economic Review* 84, no. 4 (1994): 833–50.
+Grossman, Gene M, and Elhanan Helpman. "{{% resource_link "d98ef1d7-acb7-4c2d-aa94-6fb07e5698c4" "Protection for Sale" %}}." *American Economic Review* 84, no. 4 (1994): 833–50.
 
 **Lecture 5A: Repeated Games: Finitely Repeated Games**
 
@@ -91,9 +91,9 @@ Grossman, Gene M, and Elhanan Helpman. "[Protection for Sale](https://www.jstor.
 
 *Optional Readings:*
 
-Grossman, Gene M., and Elhanan Helpman. ["Trade Wars and Trade Talks." (PDF)](https://dash.harvard.edu/bitstream/handle/1/3450062/Helpman_TradeWars.pdf) *Journal of Political Economy* 103, no. 4 (1995): 675–708.
+Grossman, Gene M., and Elhanan Helpman. {{% resource_link "52d2aaf0-f010-4016-8c46-a21fd2c93028" "\"Trade Wars and Trade Talks.\" (PDF)" %}} *Journal of Political Economy* 103, no. 4 (1995): 675–708.
 
-Baron, David P., and John A. Ferejohn. "[Bargaining in Legislatures](https://www.jstor.org/stable/1961664?seq=1)." *American Political Science Review* 83, no. 4 (1989): 1181–1206.
+Baron, David P., and John A. Ferejohn. "{{% resource_link "ce940af4-0b81-4540-9f70-157de18cefff" "Bargaining in Legislatures" %}}." *American Political Science Review* 83, no. 4 (1989): 1181–1206.
 
 **Lecture 6: Static Games of Incomplete Information**
 
@@ -103,7 +103,7 @@ Baron, David P., and John A. Ferejohn. "[Bargaining in Legislatures](https://www
 
 *Optional Reading:*
 
-Fearon, James D. "[Rationalist Explanations for War](https://www.jstor.org/stable/2706903?seq=1)." *International Organization* 49, no. 3 (1995): 379–414.
+Fearon, James D. "{{% resource_link "fccc9042-87a2-4872-b125-1edc0f1ba2f9" "Rationalist Explanations for War" %}}." *International Organization* 49, no. 3 (1995): 379–414.
 
 **Lecture 7: Dynamic Games of Incomplete Information**
 
@@ -117,7 +117,7 @@ Fearon, James D. "[Rationalist Explanations for War](https://www.jstor.org/stabl
 
 *Optional Reading:*
 
-Potters, Jan, and Frans van Winden. "[Lobbying and Asymmetric Information](https://www.jstor.org/stable/30025608?seq=1)." *Public Choice* 74, no. 3 (1992): 269–92.
+Potters, Jan, and Frans van Winden. "{{% resource_link "059922e4-d974-4e24-a1fc-29c3d3b27de7" "Lobbying and Asymmetric Information" %}}." *Public Choice* 74, no. 3 (1992): 269–92.
 
 **Lecture 8: Social Choice**
 
